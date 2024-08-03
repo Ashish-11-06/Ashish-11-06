@@ -2,7 +2,7 @@
 
 👀 I’m interested in full-stack development, solving real-world problems, and working with innovative teams.
 
-🌱 I’m currently learning advanced Java development, NodeJs, typescript, and enhancing my skills in front-end technologies like React and Angular.
+🌱 I’m currently learning  NodeJs, typescript, and enhancing my skills in front-end technologies like React and Angular.
 
 💞️ I’m looking to collaborate on exciting projects that involve high-performing, scalable, and enterprise-grade applications.
 
