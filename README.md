@@ -55,9 +55,15 @@ I’m a passionate software developer with a focus on **full-stack development**
 I love discovering scenic picnic spots around **Pune**, and I'm always excited to explore new technologies and contribute to innovative solutions.
 
 ---
-
-<!-- GitHub Stats (Optional) -->
+<!-- GitHub Stats -->
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Ashish-11-06&show_icons=true&theme=radical" alt="Ashish's GitHub stats" width="50%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Ashish-11-06&theme=radical" alt="GitHub Streak" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ashish-11-06&layout=compact&theme=radical" alt="Top Languages" width="48%" />
 </p>
+
+<!-- GitHub Contribution Graph -->
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Ashish-11-06&theme=react&area=true&hide_border=true" alt="Contribution Graph" />
+</p>
+
+
+
