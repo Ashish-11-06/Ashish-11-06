@@ -14,9 +14,9 @@ I’m a passionate software developer with a focus on **full-stack development**
 
 - **Languages**: JavaScript, TypeScript, Java, Python
 - **Frontend**: React.js, Redux Toolkit, HTML5, CSS3, Ant Design, Bootstrap, Responsive Design, SPA architecture
-- **Backend**: Node.js, Express.js, RESTful APIs, Django, Spring Boot with Hibernate, Authentication & Authorization (JWT, OAuth)
+- **Backend**: RESTful APIs, Node.js with sequelize and Express.js, Django with Django ORM, Spring Boot with Hibernate, Authentication & Authorization (JWT, OAuth)
 - **Real-Time Communication**: WebSockets, Socket.IO – for building chat apps, live dashboards, and real-time notifications
-- **Database**: MySQL, MongoDB, Sequelize ORM, Hibernate ORM
+- **Database**: MySQL, MongoDB, Sequelize ORM, Django ORM, Hibernate ORM
 - **DevOps & Tools**: Docker, Docker Compose, Git & GitHub, GitHub Actions, NGINX, Postman, MySQL Workbench, VS Code, Docker Hub, Bash Scripting
 - **Cloud & Hosting**: Vercel, AWS (EC2, S3 – Basics), Linux-based servers (Ubuntu, RHEL), Windows Server (2016+), NGINX Reverse Proxy, Domain Management, SSL Configuration
 - **Other**: MVC Architecture, CI/CD Pipelines, Monorepo Management, Cross-Platform App Development (Electron, React Native), API Documentation (Postman)
