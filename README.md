@@ -60,10 +60,10 @@ I love discovering scenic picnic spots around **Pune**, and I'm always excited t
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ashish-11-06&layout=compact&theme=radical" alt="Top Languages" width="48%" />
 </p>
 
-<!-- GitHub Contribution Graph -->
+<!-- 
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=Ashish-11-06&theme=react&area=true&hide_border=true" alt="Contribution Graph" />
 </p>
-
+GitHub Contribution Graph -->
 
 
