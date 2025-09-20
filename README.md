@@ -13,7 +13,7 @@ I’m a passionate software developer with a focus on **full-stack development**
 ## 🛠️ Tech Stack
 
 - **Languages**: JavaScript, TypeScript, Java, Python
-- **Frontend**: React.js, Redux Toolkit, HTML5, CSS3, Ant Design, Bootstrap, Responsive Design, SPA architecture
+- **Frontend**: Angular, React.js, Redux Toolkit, HTML5, CSS3, Ant Design, Bootstrap, Responsive Design, SPA architecture
 - **Backend**: RESTful APIs, Node.js with sequelize and Express.js, Django with Django ORM, Spring Boot with Hibernate, Authentication & Authorization (JWT, OAuth)
 - **Real-Time Communication**: WebSockets, Socket.IO – for building chat apps, live dashboards, and real-time notifications
 - **Database**: MySQL, MongoDB, Sequelize ORM, Django ORM, Hibernate ORM
