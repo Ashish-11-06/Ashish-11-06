@@ -1,10 +1,10 @@
-# 👋 Hi, I'm Ashish Bhosale
+#  Hi, I'm Ashish Bhosale
 
 ### Full-Stack Developer | Problem Solver | Tech Enthusiast
 
 ---
 
-## 👨‍💻 About Me
+## About Me
 
 I’m a passionate software developer with a focus on **full-stack development**, building scalable, efficient, and user-friendly applications. I enjoy working on real-world problems, collaborating with innovative teams, and continuously growing through hands-on experience and learning.
 
@@ -41,7 +41,7 @@ I’m a passionate software developer with a focus on **full-stack development**
 
 ---
 
-## 📫 How to Reach Me
+##  How to Reach Me
 
 - 📧 Email: [ashishbhosale2748@gmail.com](mailto:ashishbhosale2748@gmail.com)
 - 💼 LinkedIn: [linkedin.com/in/ashishbhosale2748](https://www.linkedin.com/in/ashishbhosale2748/)
