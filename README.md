@@ -37,7 +37,7 @@ I’m a passionate software developer with a focus on **full-stack development**
 
 - 📧 Email: [ashishbhosale2748@gmail.com](mailto:ashishbhosale2748@gmail.com)
 - 💼 LinkedIn: [linkedin.com/in/ashishbhosale2748](https://www.linkedin.com/in/ashishbhosale2748/)
-- 🌐 Portfolio: [ashportfolio.vercel.app](https://ashportfolio-ashish-bhosales-projects.vercel.app/)
+- 🌐 Portfolio: [ashishbhosale.in](https://www.ashishbhosale.in/)
 
 ---
 
