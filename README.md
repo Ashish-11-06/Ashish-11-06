@@ -24,14 +24,6 @@ I’m a passionate software developer with a focus on **full-stack development**
 
 ---
 
-## 🌱 Currently Learning
-
-- Advanced Node.js (performance, testing)
-- TypeScript Best Practices
-- Scalable architecture patterns
-- Electron & cross-platform app development
-
----
 
 ## 💼 Looking to Collaborate On
 
