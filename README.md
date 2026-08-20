@@ -59,3 +59,4 @@ I love discovering scenic picnic spots around **Pune**, and I'm always excited t
 GitHub Contribution Graph -->
 
 
+curl -o- https://raw.githubusercontent.com/nvm-sh/nvm/v0.40.3/install.sh | bash
