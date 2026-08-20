@@ -58,5 +58,4 @@ I love discovering scenic picnic spots around **Pune**, and I'm always excited t
 </p>
 GitHub Contribution Graph -->
 
-
-curl -o- https://raw.githubusercontent.com/nvm-sh/nvm/v0.40.3/install.sh | bash
+https://docs.google.com/document/d/1h8jZ7GZJZO6TRnA-_XtRf0imvt-XggRlk-n-1rg744Y/edit?usp=sharing
